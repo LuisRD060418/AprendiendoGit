@@ -1,2 +1,2 @@
-# AprendiendoGit
+# AprendiendoGit&GitHub
 Repo para practicar Git
