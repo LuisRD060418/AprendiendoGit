@@ -1,6 +1,6 @@
 # AprendiendoGit&GitHub
 
-![Git&Github](Git&Github.png)
+![Git&Github](.Git&Github.png)
 
 ## Bienvenida
 
