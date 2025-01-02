@@ -1,6 +1,6 @@
 # AprendiendoGit&GitHub
 
-![Git&Github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcursin.net%2Fcomo-aprender-git-y-github-gratis-descubre-estos-3-cursos-en-linea%2F&psig=AOvVaw2AX3CfCcRWcVR9M3kCIzWG&ust=1735903872326000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCgg6v81ooDFQAAAAAdAAAAABAE)
+![Git&Github](https://i0.wp.com/seracoder.com/wp-content/uploads/2024/01/git-and-github.jpg?resize=950%2C500&ssl=1)
 
 ## Bienvenida
 
