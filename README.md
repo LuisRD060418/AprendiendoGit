@@ -28,15 +28,15 @@ Usando Git obtendremos muchas ventajas que mejorarán el proceso de desarrollo i
 
 Aqui tienes algunas razones interesantes para incorporar Git en tu flujo de trabajo:
 
-[💡] Area de preparación
-[💡] Deshacer errores
-[💡] Integración con otras herramientas
-[💡] Comunidad y soporte
-[💡] Estándar en la industria
-[💡] Control de versiones
-[💡] Colaboración
-[💡] Branching & Merging
-[💡] Sistema distribuido
-[💡] Segumiento de cambios
+- [💡] Area de preparación
+- [💡] Deshacer errores
+- [💡] Integración con otras herramientas
+- [💡] Comunidad y soporte
+- [💡] Estándar en la industria
+- [💡] Control de versiones
+- [💡] Colaboración
+- [💡] Branching & Merging
+- [💡] Sistema distribuido
+- [💡] Segumiento de cambios
 
 [Comandos Esenciales](essentialCommands.md)
